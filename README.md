@@ -2,8 +2,8 @@
 
 ##Collaborators
 
--[Cheah Kar Sheng]
+-[Cheah Kar Sheng](https://github.com/Alexk0309)
 
 -[Ther Ming](https://github.com/ThrMing)
 
--[Thai Jolene]
+-[Thai Jolene](https://github.com/dontlookforjojo)
