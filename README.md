@@ -28,10 +28,8 @@
 6. To display the full tree, enter "5".
 7. To exit the program, enter "6".
 
-##Collaborators
 
--[Cheah Kar Sheng](https://github.com/Alexk0309)
-
--[Ther Ming](https://github.com/ThrMing)
-
--[Thai Jolene](https://github.com/dontlookforjojo)
+## Collaborators
+- [Cheah Kar Sheng](https://github.com/Alexk0309)
+- [Ther Ming](https://github.com/ThrMing)
+- [Thai Jolene](https://github.com/dontlookforjojo)
