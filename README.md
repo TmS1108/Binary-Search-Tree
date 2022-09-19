@@ -1,5 +1,5 @@
 # Binary-Search-Tree
-# This file contains instructions on how to run the Binary Search Tree and Hashing demo codes bundled in this code package as part of teh CSC2103 Coursework.
+# This file contains instructions on how to run the Binary Search Tree codes bundled in this code package as part of the CSC2103 Coursework.
 
 ### Before running any program, unzip all Java files and either open the containing folder of the unzipped Java files in an IDE or compile and run it in a terminal.
 
@@ -7,7 +7,7 @@
 - The program **only accepts integer values as input**. Any other inputs such as characters (alphabets) and special characters (punctuations etc.) are not supported and will return errors.
 - When running the programs in an IDE, the IDE may display code errors due to the use of our own classes implemented as packages. However, the program can still be compiled and executed without errors.
 
-## Both programs display clear instructions, guide and error messages for an easy experience in using the programs.
+## This programs display clear instructions, guide and error messages for an easy experience in using the programs.
 
 ## ======================================================
 
